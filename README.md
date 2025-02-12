@@ -2,7 +2,7 @@
 
 A fun and interactive memory card game built with React and Tailwind CSS. Match pairs of animal cards to win the game!
 
-![Memory Game Screenshot](./src/screenshot/screenshot.png)
+![Memory Game Screenshot](./src/screenshot/result.png)
 
 ## Features
 
